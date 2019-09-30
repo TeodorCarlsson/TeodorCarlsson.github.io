@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css"> -->
+    <link id="theme-style" rel="stylesheet" href="{{site.baseurl}}/assets/css/{% if site.style %}{{ site.style}}.css{% else %}styles.css{% endif %}">
+
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+  
+  <script type="text/javascript" src="{{site.baseurl}}/assets/plugins/jquery-1.11.3.min.js"></script>
+  <script type="text/javascript" src="{{site.baseurl}}/assets/js/main.js"></script> 
+
+</article>
