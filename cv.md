@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /online-cv/
+permalink: /cv/
 ---
 
 [In english](https://teodorcarlsson.github.io/online-cv/en/)
