@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-[In english](https://teodorcarlsson.github.io/online-cv/en/)
+[In english](https://teodorcarlsson.github.io/cv/en/)
 
 {% include mal.html %}
 
