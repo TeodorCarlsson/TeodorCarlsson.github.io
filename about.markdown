@@ -3,7 +3,7 @@ layout: page
 title: Om mig
 permalink: /about/
 ---
-[In english](http://127.0.0.1:4000/about/en/)
+[In english](https://teodorcarlsson.github.io/about/en/)
 
 Jag heter Teodor och studerar medicinsk teknik och IT vid Uppsala Universitet. Jag är generellt väldigt teknikintresserad och tycker om att följa den snabba utvecklingen som sker. Men det går väldigt snabbt så det gäller att hänga med. Därför är jag glad att jag läser en teknisk utbildning och jag hoppas kunna ta del av utvecklingen själv i framtiden. Förutom det är musik min andra stora passion och jag är med i både orkester, band och andra diverse musikgrupper. Sedan 2019 tar jag även danslektioner i Lindyhop.
 

@@ -16,8 +16,8 @@ Have a good day and enjoy the read.
 <!-- 
 [Curriculum Vitae](https://teodorcarlsson.github.io/online-cv)
 -->
-# [Curriculum Vitae](http://127.0.0.1:4000/online-cv/)
+# [Curriculum Vitae](https://teodorcarlsson.github.io/online-cv/)
 
-# [About Me](http://127.0.0.1:4000/about/)
+# [About Me](https://teodorcarlsson.github.io/about/)
 
-# [My Work](http://127.0.0.1:4000/work/)
+# [My Work](https://teodorcarlsson.github.io/work/)
