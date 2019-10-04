@@ -18,7 +18,7 @@ Have a good day and enjoy the read.
 -->
 # [Curriculum Vitae](https://teodorcarlsson.github.io/cv/)
 
-# [About Me](https://teodorcarlsson.github.io/about/)
+# [About Me](https://teodorcarlsson.github.io/about/en/)
 
 # [My Work](https://teodorcarlsson.github.io/work/)
 
