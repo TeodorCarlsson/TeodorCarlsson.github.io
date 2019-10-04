@@ -19,3 +19,17 @@ jQuery(document).ready(function($) {
     
 
 });
+
+jQuery(document).ready(function(){
+    $(".hoverable").hover(function(){
+      showData(this);
+    });
+});
+
+function showData(element) {
+var data = element.getAttribute("data-tooltip");
+/*a.classList.toggle("show");*/
+var popup = element.getElementsByClassName("popuptext");
+popup[0].innerHTML=data;
+popup[0].classList.toggle("show");
+}

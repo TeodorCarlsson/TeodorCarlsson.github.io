@@ -21,3 +21,5 @@ Have a good day and enjoy the read.
 # [About Me](https://teodorcarlsson.github.io/about/)
 
 # [My Work](https://teodorcarlsson.github.io/work/)
+
+# [Courses](https://teodorcarlsson.github.io/courses/)
