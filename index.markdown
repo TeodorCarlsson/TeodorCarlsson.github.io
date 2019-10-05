@@ -16,7 +16,7 @@ Have a good day and enjoy the read.
 <!-- 
 [Curriculum Vitae](https://teodorcarlsson.github.io/online-cv)
 -->
-# [Curriculum Vitae](https://teodorcarlsson.github.io/cv/)
+# [Curriculum Vitae](https://teodorcarlsson.github.io/cv/en)
 
 # [About Me](https://teodorcarlsson.github.io/about/en/)
 
