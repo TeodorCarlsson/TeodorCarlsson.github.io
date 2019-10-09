@@ -55,3 +55,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  social_links:
+    linkedin: teodor-carlsson
+    twitter: teodorcarlsson
+    github: tejjsho

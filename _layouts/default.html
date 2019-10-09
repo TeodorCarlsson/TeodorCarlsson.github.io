@@ -2,6 +2,10 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
+  <head>
+  <!--<link rel="stylesheet" href="{{ "/assets/css/styles.scss" | relative_url }}">-->
+  <link id="theme-style" rel="stylesheet" href="{{site.baseurl}}/assets/css/{% if site.style %}{{ site.style}}.css{% else %}styles.css{% endif %}">
+  </head>
 
   <body>
 

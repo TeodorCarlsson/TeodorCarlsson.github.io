@@ -7,28 +7,28 @@ permalink: /cv/
 
 [In english](https://teodorcarlsson.github.io/cv/en/)
 
-{% include mal.html %}
+{% include sv/mal.html %}
 
-{% include kompetens.html %}
-
-<div class="pagebreak"> </div>
-
-{% include erfarenheter.html %}
+{% include sv/kompetens.html %}
 
 <div class="pagebreak"> </div>
 
-{% include utbildning.html %}
+{% include sv/erfarenheter.html %}
 
 <div class="pagebreak"> </div>
 
-{% include skills.html %}
+{% include sv/utbildning.html %}
 
 <div class="pagebreak"> </div>
 
-{% include datorkunskaper.html %}
-
-{% include sprak.html %}
+{% include sv/skills.html %}
 
 <div class="pagebreak"> </div>
 
-{% include ovrigt.html %}
+{% include sv/datorkunskaper.html %}
+
+{% include sv/sprak.html %}
+
+<div class="pagebreak"> </div>
+
+{% include sv/ovrigt.html %}
