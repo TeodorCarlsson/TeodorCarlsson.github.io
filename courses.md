@@ -52,6 +52,7 @@ permalink: /courses/
         <li>Single Variable Calculus <span class="lang-desc"></span></li>
     </ul>
     <h4 class="container-block-title">In progress</h4>
+    <ul class="list-unstyled interests-list">
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=38508&lasar=19%2F20&typ=1">Several Variable Calculus</a><span class="lang-desc"></span></li>
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1TE757&lasar=">Linear Algebra 2</a><span class="lang-desc"></span></li>
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1TD389&lasar=">Scientific Visualisation - 1TD389</a><span class="lang-desc"></span></li>
@@ -59,6 +60,7 @@ permalink: /courses/
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1FA518&lasar=">Mechanics HI - 1FA518</a><span class="lang-desc"></span></li>
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1TE655&lasar=">Power Engineering - 1TE655</a><span class="lang-desc"></span></li>
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1FA607&lasar=">Medical Physics and Engineering - 1FA607</a><span class="lang-desc"></span></li>
+    </ul>
     <h4 class="container-block-title">Upcoming</h4>
     <ul class="list-unstyled interests-list">
         <li class="hoverable" onclick="showData(this)" data-tooltip="1MD030"><a>Medical Informatics</a><div class="popup"><span class="popuptext"></span></div></li>
