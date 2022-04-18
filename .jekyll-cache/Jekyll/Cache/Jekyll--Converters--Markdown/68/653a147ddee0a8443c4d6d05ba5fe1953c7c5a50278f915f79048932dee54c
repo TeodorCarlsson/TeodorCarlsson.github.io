@@ -1,57 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Teodor Carlsson | This is my little corner of the internet where I present information about myself and some of the work I’ve done and things I do.</title>
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Teodor Carlsson" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="This is my little corner of the internet where I present information about myself and some of the work I’ve done and things I do." />
-<meta property="og:description" content="This is my little corner of the internet where I present information about myself and some of the work I’ve done and things I do." />
-<link rel="canonical" href="http://localhost:4000/cv/" />
-<meta property="og:url" content="http://localhost:4000/cv/" />
-<meta property="og:site_name" content="Teodor Carlsson" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Teodor Carlsson" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"This is my little corner of the internet where I present information about myself and some of the work I’ve done and things I do.","headline":"Teodor Carlsson","url":"http://localhost:4000/cv/"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Teodor Carlsson" /></head>
-<head>
-  <!--<link rel="stylesheet" href="/assets/css/styles.scss">-->
-  <link id="theme-style" rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-
-  <body><header class="site-header">
-
-  <div class="wrapper"><a class="site-title" rel="author" href="/">Teodor Carlsson</a><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger"><a class="page-link" href="/about/en/">About Me</a><a class="page-link" href="/courses/">Courses</a><a class="page-link" href="/cv/en/">Curriculum Vitae</a><a class="page-link" href="/work/">Work</a></div>
-      </nav></div>
-</header><main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title"></h1>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <!--<link rel="stylesheet" href="public/css/poole.css"> -->
-    <link id="theme-style" rel="stylesheet" href="/assets/css/styles.css">
-
-  </header>
-
-  <div class="post-content">
-    <h1 style="font-size:250%">Curriculum Vitae</h1>
+I"[<h1 style="font-size:250%">Curriculum Vitae</h1>
 
 <p><a href="https://teodorcarlsson.github.io/cv/en/">In english</a></p>
 
@@ -148,31 +95,6 @@
 <section class="section experiences-section">
                 <h2 class="section-title"><i class="fa fa-briefcase"></i> Arbetserfarenheter</h2>
                 
-                
-
-                <div class="item">
-                    <div class="meta">
-                        <div class="upper-row">
-                            <h3 class="job-title">Verksamhetsförlagd utbildning Akademiska Sjukhuset</h3>
-                            <div class="time">2021</div>
-                        </div><!--//upper-row-->
-                        <div class="company">Avdelningarna för medicinsk teknik</div>
-                    </div><!--//meta-->
-                    <div></div>
-                    <div class="details">
-                        <p>En del av utbildningen på högskoleingenjörsprogrammet i medicinsk teknik på Uppsala Universitet. Fem veckor på sjukhus där man följer  MTI:er för att stödja deras arbete och under en vecka på varje medicinteknisk avdelning. Analys-gas-vätsketeknik,
-                            elektromedicin-kirurgi-optik, röntgenteknik, mekanik-sterilteknik för Akademiska. Uppgifter inkluderade: <br />
-                            - Förebyggande underhåll (ventilator, narkosapparat, diatermiapparat, dialys, infusionspump m.m.)<br />
-                            - Elsäkerhetstest (diatermiapparat)<br />
-                            - Diverse underhåll och Ankomstkontroller<br />
-                            - Kontinuerlig utbildning av arbetssätt, medicinteknisk utrustning/produkt<br />
-                            - Enstaka avhjälpande underhåll, bl.a. ute på klinik<br />
-                            - Jag var med under EEG undersökning av patient samt EEG övervak (3h), och även med under operation med robotkirurgi (8h)<br />
-                            
-                            Kursen innehöll förutom sjukhusplacering även en del teoretiska moment, se: https://www.uu.se/utbildning/utbildningar/selma/kursplan/?kpid=45388&amp;kKod=1TM118.</p>  
-                    </div><!--//details-->
-                </div><!--//item-->
-
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
@@ -193,29 +115,44 @@
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
-                            <h3 class="job-title">Styrelseledamot och IT admin för ideell förening</h3>
-                            <div class="time">2020</div>
+                            <h3 class="job-title">Verksamhetsförlagd utbildning Akademiska Sjukhuset</h3>
+                            <div class="time">2021</div>
                         </div><!--//upper-row-->
-                        <div class="company">Studentorkestern Tupplurarna</div>
+                        <div class="company">Avdelningarna för medicinsk teknik</div>
                     </div><!--//meta-->
                     <div></div>
                     <div class="details">
-                        <p>Volontärarbete samt sekreterarpost i styrelse.<br />
-
-                            - Bokföring av mötesprotokoll styrelsemöten samt samt planering och genomförande av aktiviteter för studentorkestern.<br />
-                            
-                            - Involverad vid inköp av teknisk utrustning samt sådant som hyrbil för spelningar.<br />
-                            
-                            - Studentorkestrar kör upp och riggar sin utrustning från respektive replokal till spelningslokalerna, så även flytt och logistik kring det samt koppla upp PA system (mikrofon, mixer, förstärkare, högtalare etc.).<br />
-                            
-                            - Jag var även IT administratör för orkesterns hemsida. Underhåll och uppdatering av innehåll, hantera användare: lägga till nya eller återställa lösenord och dylikt, samt patcha backend vid uppdateringar. Såg även till att hemsidan kom upp och rulla igen efter krasch.<br />
-                            
-                            Se https://tupplurarna.se
-                            </p>  
+                        <p>Granskning med datablad av elektriska komponenter, uppdatering av databas med mera.</p>  
                     </div><!--//details-->
                 </div><!--//item-->
 
-                
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">Styrelseledamot och IT adming för ideell förening</h3>
+                            <div class="time">2020</div>
+                        </div><!--//upper-row-->
+                        <div class="company">Atlas Copco, Sickla</div>
+                    </div><!--//meta-->
+                    <div>R&amp;D, Hardware Engineering</div>
+                    <div class="details">
+                        <p>Tog bland annat fram ett verktyg i form av skript och grafiskt gränssnitt för att medarbetare enkelt skulle kunna migrera och överföra kretskort med dess el-komponenter (data) från Excel till en databas. Det var här jag lärde mig Visual Basic.</p>  
+                    </div><!--//details-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">Sommarjobb</h3>
+                            <div class="time">2016</div>
+                        </div><!--//upper-row-->
+                        <div class="company">Atlas Copco, Sickla</div>
+                    </div><!--//meta-->
+                    <div>R&amp;D, Hardware Engineering</div>
+                    <div class="details">
+                        <p>Större delen av arbetet gick ut på att söka reda på kretskort och el-komponenter som inte fanns i databasen, om det saknades dokumentation eller andra fel. Ett jobb som lade grunden för framtid migrering till ny databas och gav inblick i hur en komponentdatabas kan fungera.</p>
+                    </div><!--//details-->
+                </div><!--//item-->
 </section>
 <!--//section-->
 
@@ -425,35 +362,4 @@
                     </div><!--//item-->
                 </div>
 </section>
-
-  </div>
-  
-  <script type="text/javascript" src="/assets/plugins/jquery-1.11.3.min.js"></script>
-  <script type="text/javascript" src="/assets/js/main.js"></script> 
-
-</article>
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col one-half">
-      <h2 class="footer-heading">Teodor Carlsson</h2>
-        <ul class="contact-list">
-          <li class="p-name"></li><li><a class="u-email" href="mailto:teodor.carlsson@hotmail.com">teodor.carlsson@hotmail.com</a></li></ul>
-      </div>
-
-      <div class="social-links"><ul class="social-media-list"><li><a href="https://github.com/tejjsho" title="tejjsho"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>tejjsho</a></li><li><a href="https://www.linkedin.com/in/teodor-carlsson" title="teodor-carlsson"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg>teodor-carlsson</a></li><li><a href="https://twitter.com/teodorcarlsson" title="teodorcarlsson"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg>teodorcarlsson</a></li></ul></div>
-
-      <div class="footer-col one-half">
-        <p>This is my little corner of the internet where I present information about myself and some of the work I&#39;ve done and things I do.</p>
-      </div>
-    </div>
-
-  </div>
-
-</footer></body>
-
-</html>
+:ET
