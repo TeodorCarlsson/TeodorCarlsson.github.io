@@ -15,20 +15,14 @@ permalink: /cv/
 
 {% include sv/erfarenheter.html %}
 
-<div class="pagebreak"> </div>
-
 {% include sv/utbildning.html %}
-
-<div class="pagebreak"> </div>
-
-{% include sv/skills.html %}
 
 <div class="pagebreak"> </div>
 
 {% include sv/datorkunskaper.html %}
 
-{% include sv/sprak.html %}
+{% include sv/skills.html %}
 
-<div class="pagebreak"> </div>
+{% include sv/sprak.html %}
 
 {% include sv/ovrigt.html %}
