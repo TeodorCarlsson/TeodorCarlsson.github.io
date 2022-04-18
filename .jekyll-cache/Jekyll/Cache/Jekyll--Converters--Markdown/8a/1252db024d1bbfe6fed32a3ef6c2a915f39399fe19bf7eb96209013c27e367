@@ -1,4 +1,4 @@
-I"S\<h1 style="font-size:250%">Curriculum Vitae</h1>
+I"�_<h1 style="font-size:250%">Curriculum Vitae</h1>
 
 <p><a href="https://teodorcarlsson.github.io/cv/en/">In english</a></p>
 
@@ -95,22 +95,7 @@
 <section class="section experiences-section">
                 <h2 class="section-title"><i class="fa fa-briefcase"></i> Arbetserfarenheter</h2>
                 
-                <div class="item">
-                    <div class="meta">
-                        <div class="upper-row">
-                            <h3 class="job-title">Sommarjobb Atlas Copco Sickla</h3>
-                            <div class="time">2016-2019</div>
-                        </div><!--//upper-row-->
-                        <div class="company">R&amp;D, Hardware Engineering</div>
-                    </div><!--//meta-->
-                    <div></div>
-                    <div class="details">
-                        <p><strong>2016:</strong> Configuration Management, mestadels dokumentation. Uppdaterade även mjukvara.<br /> 
-                        <strong>2017:</strong> Granskning med datablad av elektriska komponenter, uppdatering av databas med mera.<br />
-                        <strong>2018:</strong> Tog bland annat fram ett verktyg i form av skript och grafiskt gränssnitt för att vi enkelt skulle kunna migrera och överföra kretskort med dess el-komponenter (data) från Excel till en databas.<br /> 
-                        <strong>2019:</strong> Större delen av arbetet gick ut på att söka reda på kretskort och el-komponenter som inte fanns i databasen, om det saknades dokumentation eller andra fel. Ett jobb som lade grunden för en senare migrering till ny databas och gav inblick i hur en komponentdatabas och produkthanteringssystem kan fungera.</p>  
-                    </div><!--//details-->
-                </div><!--//item-->
+                
 
                 <div class="item">
                     <div class="meta">
@@ -138,14 +123,41 @@
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
+                            <h3 class="job-title">Sommarjobb Atlas Copco Sickla</h3>
+                            <div class="time">2016-2019</div>
+                        </div><!--//upper-row-->
+                        <div class="company">R&amp;D, Hardware Engineering</div>
+                    </div><!--//meta-->
+                    <div></div>
+                    <div class="details">
+                        <p><strong>2016:</strong> Configuration Management, mestadels dokumentation. Uppdaterade även mjukvara.<br /> 
+                        <strong>2017:</strong> Granskning med datablad av elektriska komponenter, uppdatering av databas med mera.<br />
+                        <strong>2018:</strong> Tog bland annat fram ett verktyg i form av skript och grafiskt gränssnitt för att vi enkelt skulle kunna migrera och överföra kretskort med dess el-komponenter (data) från Excel till en databas.<br /> 
+                        <strong>2019:</strong> Större delen av arbetet gick ut på att söka reda på kretskort och el-komponenter som inte fanns i databasen, om det saknades dokumentation eller andra fel. Ett jobb som lade grunden för en senare migrering till ny databas och gav inblick i hur en komponentdatabas och produkthanteringssystem kan fungera.</p>  
+                    </div><!--//details-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
                             <h3 class="job-title">Styrelseledamot och IT admin för ideell förening</h3>
                             <div class="time">2020</div>
                         </div><!--//upper-row-->
                         <div class="company">Studentorkestern Tupplurarna</div>
                     </div><!--//meta-->
-                    <div>R&amp;D, Hardware Engineering</div>
+                    <div></div>
                     <div class="details">
-                        <p>Tog bland annat fram ett verktyg i form av skript och grafiskt gränssnitt för att medarbetare enkelt skulle kunna migrera och överföra kretskort med dess el-komponenter (data) från Excel till en databas. Det var här jag lärde mig Visual Basic 
+                        <p>Volontärarbete samt sekreterarpost i styrelse.<br />
+
+                            - Bokföring av mötesprotokoll styrelsemöten samt samt planering och genomförande av aktiviteter för studentorkestern.<br />
+                            
+                            - Involverad vid inköp av teknisk utrustning samt sådant som hyrbil för spelningar.<br />
+                            
+                            - Studentorkestrar kör upp och riggar sin utrustning från respektive replokal till spelningslokalerna, så även flytt och logistik kring det samt koppla upp PA system (mikrofon, mixer, förstärkare, högtalare etc.).<br />
+                            
+                            - Jag var även IT administratör för orkesterns hemsida. Underhåll och uppdatering av innehåll, hantera användare: lägga till nya eller återställa lösenord och dylikt, samt patcha backend vid uppdateringar. Såg även till att hemsidan kom upp och rulla igen efter krasch.<br />
+                            
+                            Se https://tupplurarna.se
                             </p>  
                     </div><!--//details-->
                 </div><!--//item-->
@@ -176,14 +188,14 @@
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
-                            <h4 class="job-title"><b>Kandidatexamen, Teknik</b> (pågående)</h4>
+                            <h4 class="job-title"><b>Kandidatexamen, Teknik</b></h4>
                             <div class="time">2015-2022</div>
                         </div><!--//upper-row-->
                         <div class="company">Uppsala Universitet, Uppsala</div>
                     </div><!--//meta-->
                     <div></div>
                     <div class="details">
-                        <p>Från civilingenjörsprogrammet i informationsteknologi. Kommer ta ut den någon gång innan 2022.</p>
+                        <p>Kandidatexamen utifrån kurser från civilingenjörsprogrammet i informationsteknologi. 2019 bytte jag till högskoleingenjörsprogrammet i medicinsk teknik.</p>
                     </div><!--//details-->
                 </div><!--//item-->
 

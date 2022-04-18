@@ -1,4 +1,4 @@
-I"\<h1 style="font-size:250%">Curriculum Vitae</h1>
+I"�_<h1 style="font-size:250%">Curriculum Vitae</h1>
 
 <p><a href="https://teodorcarlsson.github.io/cv/en/">In english</a></p>
 
@@ -95,6 +95,31 @@
 <section class="section experiences-section">
                 <h2 class="section-title"><i class="fa fa-briefcase"></i> Arbetserfarenheter</h2>
                 
+                
+
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">Verksamhetsförlagd utbildning Akademiska Sjukhuset</h3>
+                            <div class="time">2021</div>
+                        </div><!--//upper-row-->
+                        <div class="company">Avdelningarna för medicinsk teknik</div>
+                    </div><!--//meta-->
+                    <div></div>
+                    <div class="details">
+                        <p>En del av utbildningen på högskoleingenjörsprogrammet i medicinsk teknik på Uppsala Universitet. Fem veckor på sjukhus där man följer  MTI:er för att stödja deras arbete och under en vecka på varje medicinteknisk avdelning. Analys-gas-vätsketeknik,
+                            elektromedicin-kirurgi-optik, röntgenteknik, mekanik-sterilteknik för Akademiska. Uppgifter inkluderade: <br />
+                            - Förebyggande underhåll (ventilator, narkosapparat, diatermiapparat, dialys, infusionspump m.m.)<br />
+                            - Elsäkerhetstest (diatermiapparat)<br />
+                            - Diverse underhåll och Ankomstkontroller<br />
+                            - Kontinuerlig utbildning av arbetssätt, medicinteknisk utrustning/produkt<br />
+                            - Enstaka avhjälpande underhåll, bl.a. ute på klinik<br />
+                            - Jag var med under EEG undersökning av patient samt EEG övervak (3h), och även med under operation med robotkirurgi (8h)<br />
+                            
+                            Kursen innehöll förutom sjukhusplacering även en del teoretiska moment, se: https://www.uu.se/utbildning/utbildningar/selma/kursplan/?kpid=45388&amp;kKod=1TM118.</p>  
+                    </div><!--//details-->
+                </div><!--//item-->
+
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
@@ -115,37 +140,24 @@
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
-                            <h3 class="job-title">Verksamhetsförlagd utbildning Akademiska Sjukhuset</h3>
-                            <div class="time">2021</div>
-                        </div><!--//upper-row-->
-                        <div class="company">Avdelningarna för medicinsk teknik</div>
-                    </div><!--//meta-->
-                    <div></div>
-                    <div class="details">
-                        <p>En del av utbildningen på högskoleingenjörsprogrammet i medicinsk teknik på Uppsala Universitet. 5 veckor på sjukhuset där man följde med MTI:er för att stödja deras arbete och under en vecka på varje medicinteknisk avdelning: analys-gas-vätsketeknik,
-                            elektromedicin-kirurgi-optik, röntgenteknik, mekanik-sterilteknik. Uppgifter inkluderade: 
-                            - Förebyggande underhåll (ventilator, narkosapparat, diatermiapparat, dialys, infusionspump m.m.)
-                            - Elsäkerhetstest (diatermiapparat)
-                            - Diverse underhåll och Ankomstkontroller
-                            - Kontinuerlig utbildning av arbetssätt, medicinteknisk utrustning/produkt
-                            - Enstaka avhjälpande underhåll, bl.a. ute på klinik
-                            - Jag var med under EEG undersökning av patient (3h) och med på operation med robotkirurgi (8h)
-                            
-                            Kursen innehöll förutom sjukhusplacering även en del teoretiska moment, se: https://www.uu.se/utbildning/utbildningar/selma/kursplan/?kpid=45388&amp;kKod=1TM118.</p>  
-                    </div><!--//details-->
-                </div><!--//item-->
-
-                <div class="item">
-                    <div class="meta">
-                        <div class="upper-row">
                             <h3 class="job-title">Styrelseledamot och IT admin för ideell förening</h3>
                             <div class="time">2020</div>
                         </div><!--//upper-row-->
                         <div class="company">Studentorkestern Tupplurarna</div>
                     </div><!--//meta-->
-                    <div>R&amp;D, Hardware Engineering</div>
+                    <div></div>
                     <div class="details">
-                        <p>Tog bland annat fram ett verktyg i form av skript och grafiskt gränssnitt för att medarbetare enkelt skulle kunna migrera och överföra kretskort med dess el-komponenter (data) från Excel till en databas. Det var här jag lärde mig Visual Basic 
+                        <p>Volontärarbete samt sekreterarpost i styrelse.<br />
+
+                            - Bokföring av mötesprotokoll styrelsemöten samt samt planering och genomförande av aktiviteter för studentorkestern.<br />
+                            
+                            - Involverad vid inköp av teknisk utrustning samt sådant som hyrbil för spelningar.<br />
+                            
+                            - Studentorkestrar kör upp och riggar sin utrustning från respektive replokal till spelningslokalerna, så även flytt och logistik kring det samt koppla upp PA system (mikrofon, mixer, förstärkare, högtalare etc.).<br />
+                            
+                            - Jag var även IT administratör för orkesterns hemsida. Underhåll och uppdatering av innehåll, hantera användare: lägga till nya eller återställa lösenord och dylikt, samt patcha backend vid uppdateringar. Såg även till att hemsidan kom upp och rulla igen efter krasch.<br />
+                            
+                            Se https://tupplurarna.se
                             </p>  
                     </div><!--//details-->
                 </div><!--//item-->
@@ -176,14 +188,14 @@
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
-                            <h4 class="job-title"><b>Kandidatexamen, Teknik</b> (pågående)</h4>
+                            <h4 class="job-title"><b>Kandidatexamen, Teknik</b></h4>
                             <div class="time">2015-2022</div>
                         </div><!--//upper-row-->
                         <div class="company">Uppsala Universitet, Uppsala</div>
                     </div><!--//meta-->
                     <div></div>
                     <div class="details">
-                        <p>Från civilingenjörsprogrammet i informationsteknologi. Kommer ta ut den någon gång innan 2022.</p>
+                        <p>Kandidatexamen utifrån kurserna från civilingenjörsprogrammet i informationsteknologi. 2019 bytte jag till högskoleingenjörsprogrammet i medicinsk teknik men fortsatte med IT kurser på advancerad nivå parallellt.</p>
                     </div><!--//details-->
                 </div><!--//item-->
 
