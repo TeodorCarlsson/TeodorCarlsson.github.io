@@ -1,4 +1,4 @@
-I"D<h1 style="font-size:250%">Curriculum Vitae</h1>
+I"�R<h1 style="font-size:250%">Curriculum Vitae</h1>
 
 <p><a href="https://teodorcarlsson.github.io/cv/en/">In english</a></p>
 
@@ -20,24 +20,63 @@
                 <h2 class="section-title"><i class="fa fa-gears"></i> Nyckelkompetenser</h2>
                 
                 <div class="item">
-                    <span class="expertise-title"><a href="http://github.com/tejjsho">Jag kan grundläggande programmering</a></span> - 
-                    <span class="expertise-tagline">Har arbetat i följande programmeringsspråk privat, undertiden jag jobbat eller under min utbildning: C, Python, Java, Visual Basic, HTML, JavaScript, CSS och Haskell.</span>
+                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Är självgående</a></span> - 
+                    <span class="expertise-tagline">hej </span>
                 </div><!--//item-->
 
                 <div class="item">
-                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank">Har stort intresse för teknik</a></span> - 
-                    <span class="expertise-tagline">Har gått tekniska inriktningar ända sedan gymnasiet och har idag planer på att fördjupa mig inom teknik.</span>
+                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Snabblärd samt hardworking </a></span> - 
+                    <span class="expertise-tagline">"I am sure you will make it my friend. You are one of my brightest, most consistent, hard-working, and keen to learn friends" - T.N.; "Du lär dig [systemet] så himla snabbt" - M.B.; "Keep this [work/drive] up and you'll get far" R.K. </span>
                 </div><!--//item-->
 
                 <div class="item">
-                    <span class="expertise-title"><a href="https://verifier.cambridgeenglish.org/" target="_blank">Min engelska är bra</a></span> - 
-                    <span class="expertise-tagline">Jag har gått på ett internationellt gymnasium där undervisningen var till hälften på engelska och har dessutom ett Cambridge Advanced English (CAE) certifikat. Dessutom har jag socialiserat mig väldigt mycket med människor från alla världens hörn online.</span>
+                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Noggrann </a></span> - 
+                    <span class="expertise-tagline">Krävs som sekreterare vid bokföring och hantering av mötesprotokoll. Även när man läser noter under spelningar framför publik och press krävs viss koncentration och noggranhet. Som IT administratör för tupplurarnas hemsida krävs viss noggrannhet vid hantering av användare och sidans underhåll.</span>
+                </div><!--//item-->
+                
+                <div class="item">
+                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Teknikintresserad och driven </a></span> - 
+                    <span class="expertise-tagline">Tenderar att sökt jobb hos organisationer som helloworld.se (non-profit programmerings-kollo för barn), ångström makerspace (3Dprinter-community för studenter) och styrelsepost i studentorkester (non-profit förening). Går även på lokala event och workshops, tex som kvällskurser i mikrodatorprogrammering och self-monitorering.</span>
                 </div><!--//item-->
 
                 <div class="item">
-                    <span class="expertise-title"><a href="https://en.wikipedia.org/wiki/Lifelong_learning" target="_blank">Jag vill alltid lära mig mer</a></span> - 
-                    <span class="expertise-tagline">Utvecklingen sker väldigt fort och jag tror därför det är viktigt att hela tiden lära sig nya saker och att göra det livet ut. </span>
+                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Har märkt att ger mig glädje och driv att jobba i service åt andra </a></span> - 
+                    <span class="expertise-tagline">Exempelvis delar jag mina anteckingar med studenter från mitt program och får extra energi av att skriva extra utförligt när jag vet att de kan läsas av och hjälpa andra. Såg en äldre dam i 80 års åldern själv bära bildäck. Vänder om och hjälper lyfta tills personlig assistent anländer. Var först ut att hjälpa en man som fastnat med skidorna på ett sätt med mycket smärta och potentiellt kunnat skada knälederna ordentligt.</span>
                 </div><!--//item-->
+                
+
+                <div class="item">
+                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank">Tar i när det behövs </a></span> - 
+                    <span class="expertise-tagline">Som lärarassistent satt jag frivilligt med studenter utanför lektionstid så att alla fick chans att få hjälp. </span>
+                </div><!--//item-->
+                
+                
+                <div class="item">
+                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank">Duktig lyssnare och lyhörd</a></span> - 
+                    <span class="expertise-tagline"></span>
+                </div><!--//item-->
+                
+                <div class="item">
+                    <span class="expertise-title"><a href="http://github.com/tejjsho">Jag kan programmering</a></span> - 
+                    <span class="expertise-tagline">Har arbetat i Python, Matlab, C, Java, Visual Basic, HTML JavaScript CSS och Haskell. Första två är mina främsta. Har även gått en kurs i maskininlärning.</span>
+                </div><!--//item-->
+                
+                <div class="item">
+                    <span class="expertise-title"><a href="http://github.com/tejjsho">Stor datorvana och i varierande mjukvara</a></span> - 
+                    <span class="expertise-tagline">Har använt många olika program. Allt från bildredigeringsprogram till datavisualisering och verktyg som organiserar upp livet. Typexepmpel är att jag sitter mycket i linux och gillar open source konceptet. En av mina senaste utmaningar är att lära mig CAD.</span>
+                </div><!--//item-->
+
+
+                <div class="item">
+                    <span class="expertise-title"><a href="https://verifier.cambridgeenglish.org/" target="_blank">Min engelska är bra och är språkintresserad</a></span> - 
+                    <span class="expertise-tagline">Gick på internationellt gymnasium där hälften av undervisningen var på engelska, fått Cambridge Advanced English (CAE) certifikat. Har socialiserat mig väldigt mycket med människor från alla världens hörn online. Har 15 HP i japanska och planer att lära mig mandarin och/eller franska. </span>
+                </div><!--//item-->
+
+                <div class="item">
+                    <span class="expertise-title"><a href="https://en.wikipedia.org/wiki/Lifelong_learning" target="_blank">Jag vill alltid lära mig mer och vara den som förstår saker och inte bara 'gör'</a></span> - 
+                    <span class="expertise-tagline">Utvecklingen sker väldigt fort och jag tror det är viktigt med kontinuerlig kompetensutveckling. Livet ut. </span>
+                </div><!--//item-->
+
 </section>
 <!--//section-->
 
