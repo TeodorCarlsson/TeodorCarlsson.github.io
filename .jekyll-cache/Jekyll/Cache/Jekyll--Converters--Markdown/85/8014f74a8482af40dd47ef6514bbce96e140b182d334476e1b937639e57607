@@ -1,4 +1,4 @@
-I"�R<h1 style="font-size:250%">Curriculum Vitae</h1>
+I"�W<h1 style="font-size:250%">Curriculum Vitae</h1>
 
 <p><a href="https://teodorcarlsson.github.io/cv/en/">In english</a></p>
 
@@ -6,11 +6,21 @@
 <h2><i class="fa fa-compass"></i> Målsättning</h2>
 <div class="summary">
     <p>
-        När det kommer till min utbildning är min ambition för närvarande att först och främst att ta ut en högskoleingenjörsexamen i medicinsk teknik. Samtidigt kommer jag även ta ut en kandidat i teknik i och med att jag studerade IT tidigare. Därefter kommer jag välja en av två vägar; att antingen söka en master i medicinsk teknik på Chalmers tekniska högskola eller något motsvarande i Uppsala eller att jobba ett par år för att sedan läsa en master i medicinsk teknik. Till sist är tanken att söka en forskarutbildning på samma område.
-    </p>
-    <br />
-    <p>
-        Jag skulle även fundera på att gå åt det mer pedagogiska hållet och prova på att lära ut eller att på något sätt vara del av undervisning eller utbildning inom teknik. Det är ett område jag funderar på att utforska mer kring och se vilka alternativen är.
+        Det jag önskar få ut av anställningen är<br />
+        <ul>
+        <li> Erhålla mer erfarenhet inom den medicintekniska branschen, praktiskt tillämpning av min utbildning och möjlighet för teoretiska fördjupningar</li>
+        <li> Potentiellt få möjlighet att utveckla mig mer inom signalering av olika slag, rikta in mig mer mot klinisk fysiologi/neurofysiologi och att eventuellt kombinera IT och medicinsk teknik</li>
+        <li> Förstå och få en känsla för hur den svenska sjukvårdsapparaten fungerar inklusive de varierande rollerna för MTI:er</li>
+        <li> Personlig utveckling</li>
+        <li> Kompetensutveckling</li>
+        </ul>
+        Det jag kan erbjuda företaget<br />
+        <ul>
+            <li> Min utbildningsbakgrund kan potentiellt ge möjlighet att fylla flera olika roller efter behov. Sjukhuset har fler ansvarsområden inom avdelningen för medicinsk teknik och kanske kan IT/MedTek kombinationen ge möjlihet för tjänst med inriktning endast IT, eller med mer inriktning på medicinsk teknik, eller en som kombinerar båda.</li>
+            <li>En glad, driven och engagerad kollega :)</li>
+        </ul>
+        
+        Min ambition och långsiktiga mål är att en dag få jobba med klinisk (neuro)fysiologi och vet att det finns ett antal olika vägar dit. Men att jobba som medicinteknisk ingenjör känns som det naturliga första steget. 
     </p>
 </div>
 </section>
@@ -20,8 +30,8 @@
                 <h2 class="section-title"><i class="fa fa-gears"></i> Nyckelkompetenser</h2>
                 
                 <div class="item">
-                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Är självgående</a></span> - 
-                    <span class="expertise-tagline">hej </span>
+                    <span class="expertise-title"><a href="https://teodorcarlsson.github.io/courses/" target="_blank"> Självgående</a></span> - 
+                    <span class="expertise-tagline">Men jobbar gärna i grupp. </span>
                 </div><!--//item-->
 
                 <div class="item">
@@ -31,39 +41,39 @@
 
                 <div class="item">
                     <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Noggrann </a></span> - 
-                    <span class="expertise-tagline">Krävs som sekreterare vid bokföring och hantering av mötesprotokoll. Även när man läser noter under spelningar framför publik och press krävs viss koncentration och noggranhet. Som IT administratör för tupplurarnas hemsida krävs viss noggrannhet vid hantering av användare och sidans underhåll.</span>
+                    <span class="expertise-tagline">Krävs som sekreterare vid bokföring och hantering av mötesprotokoll. Även när man läser noter under spelningar framför publik och under press krävs viss koncentration och noggranhet. Som IT administratör för tupplurarnas hemsida krävs viss noggrannhet vid hantering av användare och sidans underhåll.</span>
                 </div><!--//item-->
                 
                 <div class="item">
                     <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Teknikintresserad och driven </a></span> - 
-                    <span class="expertise-tagline">Tenderar att sökt jobb hos organisationer som helloworld.se (non-profit programmerings-kollo för barn), ångström makerspace (3Dprinter-community för studenter) och styrelsepost i studentorkester (non-profit förening). Går även på lokala event och workshops, tex som kvällskurser i mikrodatorprogrammering och self-monitorering.</span>
+                    <span class="expertise-tagline">Tenderar att sökt jobb hos organisationer som helloworld.se (non-profit programmerings-kollo för barn), ångström makerspace (3Dprinter-community för studenter) och styrelsepost i studentorkester (non-profit förening). Går även på lokala event och workshops, tex som kvällskurser i mikrodatorprogrammering och self-monitorering meetups.</span>
                 </div><!--//item-->
 
                 <div class="item">
-                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Har märkt att ger mig glädje och driv att jobba i service åt andra </a></span> - 
-                    <span class="expertise-tagline">Exempelvis delar jag mina anteckingar med studenter från mitt program och får extra energi av att skriva extra utförligt när jag vet att de kan läsas av och hjälpa andra. Såg en äldre dam i 80 års åldern själv bära bildäck. Vänder om och hjälper lyfta tills personlig assistent anländer. Var först ut att hjälpa en man som fastnat med skidorna på ett sätt med mycket smärta och potentiellt kunnat skada knälederna ordentligt.</span>
+                    <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank"> Har märkt att det ger mig glädje och driv att jobba i service åt andra </a></span> - 
+                    <span class="expertise-tagline">Exempelvis delar jag mina anteckingar med studenter från mitt program och får extra energi av att skriva extra utförligt när jag vet att de kan läsas av och hjälpa andra. Såg en äldre dam i 80 års åldern själv bära bildäck. Vänder om och hjälper lyfta tills personlig assistent anländer. Var först ut att hjälpa en man som fastnat med skidorna på ett sätt med mycket smärta och potentiellt kunnat skada knälederna ordentligt. Bland annat därför jag strävar mot att jobba inom vården.</span>
                 </div><!--//item-->
                 
 
                 <div class="item">
                     <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank">Tar i när det behövs </a></span> - 
-                    <span class="expertise-tagline">Som lärarassistent satt jag frivilligt med studenter utanför lektionstid så att alla fick chans att få hjälp. </span>
+                    <span class="expertise-tagline">Som lärarassistent satt jag frivilligt med studenter utanför lektionstid/arbetstid så att alla fick chans att få hjälp. På jobbet blev det en del övertid på slutet för att det skulle bli ett schysst avslut och överlämning innan jag slutade. </span>
                 </div><!--//item-->
                 
                 
                 <div class="item">
                     <span class="expertise-title"><a href="https://www.reddit.com/r/BiomedicalEngineers/" target="_blank">Duktig lyssnare och lyhörd</a></span> - 
-                    <span class="expertise-tagline"></span>
+                    <span class="expertise-tagline">Är den som svarar på lärarens frågor i Zoom och ställer själv frågor när alla andra sitter tyst.</span>
                 </div><!--//item-->
                 
                 <div class="item">
-                    <span class="expertise-title"><a href="http://github.com/tejjsho">Jag kan programmering</a></span> - 
-                    <span class="expertise-tagline">Har arbetat i Python, Matlab, C, Java, Visual Basic, HTML JavaScript CSS och Haskell. Första två är mina främsta. Har även gått en kurs i maskininlärning.</span>
+                    <span class="expertise-title"><a href="http://github.com/tejjsho">Jag kan lite programmering</a></span> - 
+                    <span class="expertise-tagline">Har arbetat i Python, Matlab, C, Java, Visual Basic, HTML JavaScript CSS och Haskell. Första två är mina främsta. Har även gått en introkurs i maskininlärning. Se vilka kurser jag gått under 'courses' eller bifogat.</span>
                 </div><!--//item-->
                 
                 <div class="item">
-                    <span class="expertise-title"><a href="http://github.com/tejjsho">Stor datorvana och i varierande mjukvara</a></span> - 
-                    <span class="expertise-tagline">Har använt många olika program. Allt från bildredigeringsprogram till datavisualisering och verktyg som organiserar upp livet. Typexepmpel är att jag sitter mycket i linux och gillar open source konceptet. En av mina senaste utmaningar är att lära mig CAD.</span>
+                    <span class="expertise-title"><a href="https://www.emotibit.com/">Stor datorvana och i varierande mjukvara</a></span> - 
+                    <span class="expertise-tagline">Allt från bildredigeringsprogram till datavisualisering och verktyg som organiserar upp livet. Typexepmpel är Trello(kanban to-do listor), Notion(all-in-one workspace program), LaTeX(textformaterare) och att jag föredrar linux och gillar open source konceptet. En av mina senaste projekt är att lära mig CAD och emotibit(mikrodator-biometri-sensor).</span>
                 </div><!--//item-->
 
 
@@ -74,7 +84,7 @@
 
                 <div class="item">
                     <span class="expertise-title"><a href="https://en.wikipedia.org/wiki/Lifelong_learning" target="_blank">Jag vill alltid lära mig mer och vara den som förstår saker och inte bara 'gör'</a></span> - 
-                    <span class="expertise-tagline">Utvecklingen sker väldigt fort och jag tror det är viktigt med kontinuerlig kompetensutveckling. Livet ut. </span>
+                    <span class="expertise-tagline">Utvecklingen sker väldigt fort, hela tiden förändringar. Jag tror det är viktigt med kontinuerlig kompetensutveckling och anpassningsbarhet, speciellt i dagens (och framtidens) dynamiska arbetsvärld. Att lära sig livet ut. Jag har så otroligt mycket kvar jag vill lära mig. </span>
                 </div><!--//item-->
 
 </section>
