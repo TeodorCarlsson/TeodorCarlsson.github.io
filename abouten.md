@@ -5,6 +5,8 @@ permalink: /about/en/
 ---
 
 [På svenska](https://teodorcarlsson.github.io/about/) 
+    
+<font color="red"><p>This page is under maintenance and contents may be outdated...</p></font>
 
 I am Teodor and I study Biomedical Engineering and IT at Uppsala University. My interests lie in technology or engineering which has intrigued me since my childhood. For that and few other reasons is why pursuing further knowledge in an engineering field is to me a natural choice. I want to be part of the development process and keep up with the fast progress. Hence why I am looking into what my options are for a doctorate, although in practice that is still a few years away.
 
