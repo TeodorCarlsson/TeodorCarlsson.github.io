@@ -7,6 +7,8 @@ permalink: /cv/
 
 [In english](https://teodorcarlsson.github.io/cv/en/)
 
+<p style="font-size:10px">Last updated 2025-08-02</p>
+
 <div class="pagebreak"> </div>
 
 {% include sv/erfarenheter.html %}
