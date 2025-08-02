@@ -7,15 +7,13 @@ permalink: /cv/
 
 [In english](https://teodorcarlsson.github.io/cv/en/)
 
-{% include sv/mal.html %}
-
-{% include sv/kompetens.html %}
-
 <div class="pagebreak"> </div>
 
 {% include sv/erfarenheter.html %}
 
 {% include sv/utbildning.html %}
+
+För en komplett lista över kurser, [se här](https://teodorcarlsson.github.io/courses/).
 
 <div class="pagebreak"> </div>
 
