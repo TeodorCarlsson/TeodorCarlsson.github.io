@@ -9,6 +9,6 @@ permalink: /resume/combitech/
 
 {% include sv/mal_combitech.html %}
 
-{% include sv/kompetens.html %}
+{% include sv/kompetens_combitech.html %}
 
 <div class="pagebreak"> </div>
