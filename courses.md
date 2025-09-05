@@ -7,7 +7,7 @@ permalink: /courses/
 [På svenska](https://teodorcarlsson.github.io/courses/sv/)
 
 <div class="languages-container container-block">
-    <h3 class="container-block-title">Here is a listing of my formal education. Updated 03-07-2021.</h3>
+    <h3 class="container-block-title">Here is a listing of my formal education. Updated 05-09-2025.</h3>
     <h4 class="container-block-title">Biomedical Engineering</h4>
     <ul class="list-unstyled interests-list">
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1TE757&lasar=">Introduction to Biomedical Engineering</a><span class="lang-desc"></span></li>
@@ -21,6 +21,10 @@ permalink: /courses/
         <li class="hoverable" onclick="showData(this)" data-tooltip="3MC125">Anatomy and Physiology<span class="lang-desc"></span></li>
         <li class="hoverable" onclick="showData(this)" data-tooltip="1TE758">Materials Science for Biomedical Engineering<span class="lang-desc"></span></li>
         <li class="hoverable" onclick="showData(this)" data-tooltip="1TE743">Industrial Management<span class="lang-desc"></span></li>
+        <li class="hoverable" onclick="showData(this)" data-tooltip="1MD030"><a>Medical Informatics</a><div class="popup"><span class="popuptext"></span></div></li>
+        <li class="hoverable" onclick="showData(this)" data-tooltip="3PE051"><a>Implementation of Medical Technology</a><div class="popup"><span class="popuptext"></span></div></li>
+        <li class="hoverable" onclick="showData(this)" data-tooltip="1KB704"><a>Environmental Techniques</a><div class="popup"><span class="popuptext"></span></div></li>
+        <li class="hoverable" onclick="showData(this)" data-tooltip="1TM118"><a>Workplace Training in Biomedical Engineering</a><div class="popup"><span class="popuptext"></span></div></li>
     </ul>
     <h4 class="container-block-title">IT</h4>
     <ul class="list-unstyled interests-list">
@@ -60,17 +64,8 @@ permalink: /courses/
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1FA518&lasar=">Mechanics HI - 1FA518</a><span class="lang-desc"></span></li>
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1TE655&lasar=">Power Engineering - 1TE655</a><span class="lang-desc"></span></li>
         <li><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1FA607&lasar=">Medical Physics and Engineering - 1FA607</a><span class="lang-desc"></span></li>
-    </ul>
-    <h4 class="container-block-title">Upcoming</h4>
-    <ul class="list-unstyled interests-list">
-        <li class="hoverable" onclick="showData(this)" data-tooltip="1MD030"><a>Medical Informatics</a><div class="popup"><span class="popuptext"></span></div></li>
-        <li class="hoverable" onclick="showData(this)" data-tooltip="3PE051"><a>Implementation of Medical Technology</a><div class="popup"><span class="popuptext"></span></div></li>
-        <li class="hoverable" onclick="showData(this)" data-tooltip="1KB704"><a>Environmental Techniques</a><div class="popup"><span class="popuptext"></span></div></li>
-        <li class="hoverable" onclick="showData(this)" data-tooltip="1TM118"><a>Workplace Training in Biomedical Engineering</a><div class="popup"><span class="popuptext"></span></div></li>
-        <li class="hoverable" onclick="showData(this)" data-tooltip="to be decided..."><a>3D CAD?</a><div class="popup"><span class="popuptext"></span></div></li>
-        <li class="hoverable" onclick="showData(this)" data-tooltip="to be decided..."><a>Introduction to machine learning?</a><div class="popup"><span class="popuptext"></span></div></li>
-        <li class="hoverable" onclick="showData(this)" data-tooltip="to be decided..."><a>Introduction to AI?</a><div class="popup"><span class="popuptext"></span></div></li>
-        <li class="hoverable" onclick="showData(this)" data-tooltip="to be decided..."><a>Introduction to Additive Manufacturing?</a><div class="popup"><span class="popuptext"></span></div></li>
+        <li class="hoverable" onclick="showData(this)" data-tooltip="to be decided..."><a>3D CAD</a><div class="popup"><span class="popuptext"></span></div></li>
+        <li class="hoverable" onclick="showData(this)" data-tooltip="to be decided..."><a>Introduction to machine learning</a><div class="popup"><span class="popuptext"></span></div></li>
         <li class="hoverable" onclick="showData(this)" data-tooltip="1TM119"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kKod=1TM119&lasar=&siteNodeId=79266&contentId=-1">Degree Project in Biomedical Engineering, 15 credits</a><div class="popup"><span class="popuptext"></span></div></li>
     </ul>
     <h4 class="container-block-title">Other</h4>
